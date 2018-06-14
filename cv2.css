@@ -1,10 +1,8 @@
 div.col-lg-3{
-		border:2px solid brown;
         border-radius:10px;
 		text-align:center;
 }
 div.col-lg-6{
-		border: 2px solid brown;
 		border-radius:10px;
 		margin-top:5px;
 		text-align:center;
@@ -12,7 +10,6 @@ div.col-lg-6{
 	}
 div.col-lg-12{
         margin-top:5px;
-		border: 2px solid brown;
         border-radius:10px;
 		text-align:center;
 		font-family:fantasy;
