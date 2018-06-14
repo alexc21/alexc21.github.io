@@ -33,7 +33,7 @@ h1:hover{
 	
 }
 div{
-		background-color:#ffbb5c;
+		background-color:#f1ffef;
 	
 }
 table{
@@ -47,4 +47,10 @@ td{
 th{
         color:red;
         font-size:20px;
+}
+button.btn1{
+     border-radius: 10px;
+}
+button.btn2{
+     border-radius: 10px;
 }
